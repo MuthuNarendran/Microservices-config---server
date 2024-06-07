@@ -1,0 +1,3 @@
+db.url = jdbc:h2:mem:AccountDB
+db.username = sa
+db.password = 
